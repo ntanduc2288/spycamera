@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SpyCamera</string>
+    <string name="no">No</string>
+    <string name="yes">yes</string>
 </resources>
