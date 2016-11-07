@@ -15,3 +15,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+-dontwarn javax.annotation.processing.**
+-keepclassmembers class javax.annotation.processing.ProcessingEnvironment {
+    public *;
+}

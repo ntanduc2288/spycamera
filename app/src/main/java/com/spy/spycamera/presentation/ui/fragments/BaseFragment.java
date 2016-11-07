@@ -92,4 +92,5 @@ public abstract class BaseFragment extends Fragment {
             throw new RuntimeException(exception);
         }
     }
+
 }
